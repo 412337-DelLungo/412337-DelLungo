@@ -8,4 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h2> Desarrollador re contra full stack  <h2>
 <li> Mis aptitudes <li>
 <li> <li>
-  - [ ] www.Linkedin/MateoDelLungo.com
+  - [ ] 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+👨‍💻
