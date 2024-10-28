@@ -24,7 +24,33 @@ class Developer:
 
 me.say_hi()
 ```
+<!--TARJETA DE HORAS EN WAKATIME-->
+<div align="center">
+<a href="https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e">
+  <img align="center" src="https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg">
+</a>
+</div>
+<!--TARJETA DE HORAS EN WAKATIME END-->
 
+<!--ESPACIO EN BLANCO-->
+<div>
+  <p></p>
+</div>
+<!--ESPACIO EN BLANCO END-->
+
+<div align="center">
+<!--TARJETA DE LENGUAJES DE WAKATIME-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mudo0&layout=compact" />
+</a>
+<!--TARJETA DE LENGUAJES DE WAKATIME END-->
+</div>
+
+<!--ESPACIO EN BLANCO-->
+<div>
+  <p></p>
+</div>
+<!--ESPACIO EN BLANCO END-->
 
 
 <div align="center">
