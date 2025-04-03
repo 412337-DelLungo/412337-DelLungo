@@ -1,85 +1,69 @@
-<h1 align="center">
-  Hola <img src="https://web.archive.org/web/20090725132514im_/http://www.geocities.com/akbeck98/waving.gif" alt="Hand">, Soy Mateo Del Lungo 
-<img src="https://web.archive.org/web/20090821073130im_/http://geocities.com/toddc5quad/images/smile.gif" alt="Smile" align="center" width="20">
-Legajo: 412337
-
-</h1>
-<div align="center">
-Esta cuenta es para uso institucional / Contacto: <img src="https://web.archive.org/web/20090822020555im_/http://geocities.com/afs4ever/email06.gif" alt="mailretro" align="center" width="20">
-</div>
+<p align="center"><!-- Optional banner goes here--> 
 
 
-```python
-
-
-class Developer:
-
-    def __init__(self):
-        self.name = "Mateo" #Mudo
-        self.role = "Student"
-        self.language_spoken = ["es_ARG", "en_US"]
-
-    def say_hi(self):
-        print("Hi, im Mateo, and i'm planning to learn all kinds of technologies and be able to become a full-stack developer")
-
-me.say_hi()
-```
-<!--TARJETA DE HORAS EN WAKATIME-->
-<div align="center">
-<a href="https://wakatime.com/@ecb456c5-1b67-4281-9da9-456ba4d60a8e">
-  <img align="center" src="https://wakatime.com/badge/user/ecb456c5-1b67-4281-9da9-456ba4d60a8e.svg">
-</a>
-</div>
-<!--TARJETA DE HORAS EN WAKATIME END-->
-
-<!--ESPACIO EN BLANCO-->
-<div>
-  <p></p>
-</div>
-<!--ESPACIO EN BLANCO END-->
-
-<div align="center">
-<!--TARJETA DE LENGUAJES DE WAKATIME-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mudo0&layout=compact" />
-</a>
-<!--TARJETA DE LENGUAJES DE WAKATIME END-->
-</div>
-
-<!--ESPACIO EN BLANCO-->
-<div>
-  <p></p>
-</div>
-<!--ESPACIO EN BLANCO END-->
-
-
-<div align="center">
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/9983446/original_69d1f0a68d256ff09aca9e86ed800a11.gif?1608614986?bc=0" alt="Puter" align="center" width="128">
-
-Habilidades: 
-  / C# <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" align=center width=20> 
-  / HTML <img src="https://www.svgrepo.com/show/452228/html-5.svg" align=center width=20> 
-  / SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" align=center width=20> 
-  / PYTHON <img src="https://www.svgrepo.com/show/452091/python.svg" align=center width=20>
-
-<img src="https://web.archive.org/web/20090903053958im_/http://geocities.com/templeoflearning/monitor.gif" align=center> Estoy aprendiendo .NET <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" align=center width=20>
-
-Música <a href="https://music.youtube.com/playlist?list=PLJnRGNrXKvyzwIVrtug_-xWAEGygJrf7U&si=T5G2t3QAzKpbhpVG"> <img src="https://d2w9rnfcy7mm78.cloudfront.net/9915918/original_687a76a221a1de19a902cbdf89c2b7d6.gif?1608099909?bc=0" width="30"></a></h3>
-<div align="center">
-  
-</div>
-
-
-<h2 align="center">Links <img src="https://d2w9rnfcy7mm78.cloudfront.net/9916384/original_bc0d33c7a2d18029b1815b00c21c7b7a.gif?1608103863?bc=0"> </h2>
-
-<p align="center">
-  <a href="mailto:mateodellungo@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width=70/></a>
-  <a href="https://www.linkedin.com/in/mateo-del-lungo-610398210/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width=70/></a>
-  <a href="https://www.instagram.com/m_ud0"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width=70/></a>
 </p>
 
-  
-<img src="https://web.archive.org/web/20090903074517im_/http://geocities.com/coding1984/old/images/other/FP2000.GIF" alt="Microsoft frontpage" align="center" width="128">
+<img align="right" width="400" alt="engraving-art" src="https://i.pinimg.com/736x/1f/b5/76/1fb576a5e2fd0b5d75b210efab52e122.jpg">
+<div>
+  <div style="display: flex;">
+<img width="400" src="./github-header-image (4).png" alt="LOGO">
+    
+  </div>
+
+  <br>
+<!--socials-->
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/%40m__ud0-%23FF0069?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fm_ud0%2F" alt="INSTAGRAM">
+<img alt="Static Badge" src="https://img.shields.io/badge/mateodellungo%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DDmwnWtDpKBzcsZwQwtmMWhgJWNxjTMRszrWmnxCFGnGCHqmqSFptjgCFCXGzXJkwdhnqSQRJXQPb" alt="GMAIL">
+<img alt="Static Badge" src="https://img.shields.io/badge/in%2Fmateo--del--lungo-%230066ff?style=flat&logoColor=white&labelColor=%230066ff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateo-del-lungo-610398210%2F">
+
+
+
 </div>
 
+  <br>
+  <p>I'm <strong>Mateo Del Lungo</strong>, a Software Development student. I have a strong passion for programming so i'm constantly pushing myself to get better and expanding my knowledge.</p>
+  
 
+
+  ### Toolset
+
+  <div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/.NET-%23512BD4?style=flat&logoColor=white" alt="DOTNET">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSharp-%23b300b3?style=flat&logo=sharp&logoColor=white" alt="CSHARP">
+    <img src="https://img.shields.io/badge/Java-%23ff9933?style=flat&logo=java&logoColor=white" alt="JAVA">
+   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%236699ff?style=flat&logo=typescript&logoColor=white" alt="TYPESCRIPT">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23ff3333?style=flat&logo=angular&logoColor=white" alt="ANGULAR">
+
+  </div>
+
+  <div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23ECDC5A?style=flat&logo=javascript&logoColor=white" alt="JAVASCRIPT">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%233399ff?style=flat&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+   
+  </div>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  </div>
+
+   ### Projects
+  <p><em>Check out some of my projects.</em></p>
+  
+   📚[Pharmacy Web-App](https://github.com/Grupo-Prog/TP-Proyecto-Web)
+   <p><em>Fullstack project made for the university, I developed the entire backend with <strong>ASP.NET</strong> using <strong>C#</strong> and implemented <strong>EntityFramework</strong> as an ORM. Additionally, I added a logic layer for authentication in with <strong>JWT</strong></em> </p>
+
+📚[Todo List Web-App](https://github.com/Mudo0/ToDo-List-API) 🎯(Currently Working)
+   <p>
+     <em>
+       Fullstack project i made alone, with the objective of upgrading my frontend's skills and also learning about software architecture. The API was made with <strong>ASP.NET</strong> implementing authentication, <strong>handlers</strong>, dependency injection, clean architecture and some other minimal improvements for the backend.
+     </em>
+   </p>
+
+
+
+
+</div>
